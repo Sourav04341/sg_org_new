@@ -1,0 +1,23 @@
+{
+  "name": "sg_org",
+  "version": "1.0.0",
+  "description": "npm project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sourav04341/sg_org.git"
+  },
+  "author": "sourav",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Sourav04341/sg_org/issues"
+  },
+  "homepage": "https://github.com/Sourav04341/sg_org#readme",
+  "dependencies": {
+    "@everapi/currencyapi-js": "^1.0.6"
+  }
+}
